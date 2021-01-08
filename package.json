@@ -1,0 +1,27 @@
+{
+    "name": "donkey-helpers-js",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "build": "tsc"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/donkeycommerce/donkey-helpers-js.git"
+    },
+    "author": "Daniele Tulone",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/donkeycommerce/donkey-helpers-js/issues"
+    },
+    "homepage": "https://github.com/donkeycommerce/donkey-helpers-js#readme",
+    "devDependencies": {
+      "typescript": "^4.0.3"
+    },
+    "files": [
+      "lib",
+      "src"
+    ]
+  }
+  
